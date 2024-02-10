@@ -1,4 +1,4 @@
-## Adjustments for Slope m > 1
+##### Adjustments for Slope m > 1
 For the slope greater than 1 scenario in the Bresenham line drawing algorithm, adjustments are necessary to ensure accurate computation of intermediate points. The standard Bresenham algorithm is designed to handle slopes with absolute values less than or equal to 1 efficiently. When the slope exceeds 1, the algorithm needs to be adapted to accommodate this specific case.
 
 The adjustments made for the slope greater than 1 scenario include:
