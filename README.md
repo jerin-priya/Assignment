@@ -12,5 +12,5 @@ Updating the Decision Parameter: The decision parameter calculation is adjusted 
 Handling the Decision Parameter Conditions: The conditions for updating the decision parameter are adjusted to suit the new progression direction along the y-axis. This ensures that the algorithm correctly selects the next pixel while drawing the line.
 
 By making these adjustments, the algorithm can effectively handle slopes greater than 1 and accurately compute the intermediate points along the line between the given points.
- 
+# Output
 ![cgI](https://github.com/jerin-priya/Assignment/assets/74975012/c8496b4e-aa22-4da7-b64a-1d20c7051d91)
